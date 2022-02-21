@@ -1,0 +1,4 @@
+## Requirements without version
+numpy
+paramiko
+threading
